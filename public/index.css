@@ -1,0 +1,36 @@
+.routine-main-container {
+  border: 1px solid black;
+  display: flex;
+  flex-direction: column;
+  /* flex-wrap: wrap; */
+  margin: 1.5em;
+  width: 95%;
+}
+
+.routine-container {
+  border: 1px solid rebeccapurple;
+  margin: 0.5em;
+  padding: 0.5em;
+  width: 50%;
+}
+
+.routine_activity-container {
+  border: 1px solid red;
+  margin: 0.5em;
+  padding: 0.5em;
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+}
+.activity-container {
+  border: 1px solid black;
+}
+
+/* User Routine.js  */
+.user-routine-main-container {
+  border: 1px solid black;
+}
+
+.user-routine-single-container {
+  border: 1px solid red;
+}
